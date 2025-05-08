@@ -6,10 +6,10 @@
 **Author:** Wang Xinchang
 
 <p align="center">
-    <a href="https://utkarshojha.github.io/universal-fake-detection/"><img src="figs/model_workflow.png" width="80%"></a> <br>
+    <a href="https://utkarshojha.github.io/universal-fake-detection/"><img src="figs/framework.svg" width="80%"></a> <br>
     The framework of RFNT(Based on Real and False Images <i>Noise Tolerance</i>  ) 
 </p>
-[framework.pdf](https://github.com/user-attachments/files/20102231/framework.pdf)
+
 
 
 ---
