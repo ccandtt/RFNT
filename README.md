@@ -3,7 +3,7 @@
 ### 🖼️ RFNT
 
 **Black-box Detection: Noise tolerance between real and false images is easier to detect**  
-**Author:** Wang Xinchang
+**Author:** *Wang*
 
 <p align="center">
     <a href="https://utkarshojha.github.io/universal-fake-detection/"><img src="figs/framework.svg" width="80%"></a> <br>
